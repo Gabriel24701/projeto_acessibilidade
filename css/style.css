@@ -33,10 +33,12 @@ h1{
     transition: background-color 0.3s;
     box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.2);
     background-color: #fff;
+    display: block;
+    margin: 0% auto;
 }
 
 #ler:hover {
-    background-color: #bc816b; /* cor um pouco mais escura quando passa o mouse */
+    background-color: #8C5C4A; /* cor um pouco mais escura quando passa o mouse */
 }
 
 
