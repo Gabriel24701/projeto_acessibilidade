@@ -1,15 +1,9 @@
-Nome: “Leitor Acessível”
+# Leitor de Texto Acessível
 
-Um site simples onde a pessoa cola um texto, clica em “Ler em voz alta” e o navegador faz a leitura. Além disso, você pode ir incrementando com recursos de acessibilidade, tipo:
+Seja bem-vindo(a) ao meu primeiro mini projeto! 🎉
 
-Botões grandes
+Este é um site simples onde a pessoa pode colar um texto, clicar em “Ler” e o navegador faz a leitura em voz alta.  
+Pode parecer uma funcionalidade básica, mas é um recurso poderoso que pode ser implementado em várias aplicações com o objetivo de tornar a web mais acessível para todos os usuários.
 
-Ajuste de tamanho da fonte
-
-Modo alto contraste
-
-Leitura pausável ou repetível
-
-Suporte a atalhos no teclado
-
-Interface limpa e intuitiva
+Obrigado pela visita e volte sempre! 🚀  
+Pretendo continuar melhorando esse projeto com novos recursos em breve.
