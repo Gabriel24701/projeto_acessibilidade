@@ -59,3 +59,10 @@ h1{
     resize: none;
     border: none;
 }
+
+footer{
+    font-size: 1rem;
+    color: #333;
+    margin-top: 20px;
+    text-align: center;
+}
